@@ -66,7 +66,7 @@ body{
     border-radius: 0.25rem;
 }
 
-.qutoes{
+.quotes{
     background: red;
     border-radius: 0.5rem;
     padding: 2rem 3rem;
@@ -79,7 +79,7 @@ body{
     overflow-y: scroll;
     /* box-shadow: 10px 10px 10px solid rgba(0, 0, 0, 0.5); */
 }
-.qutoe{
+.quote{
     margin-top: 2rem;
 }
 h3{
