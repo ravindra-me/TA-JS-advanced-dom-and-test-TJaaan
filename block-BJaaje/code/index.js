@@ -66,6 +66,7 @@ function dragStart(event) {
     if (chanceNum === arr.length) playAgain.classList.remove('display-none');
   }
 }
+
 function dropHandler(event) {
   event.stopPropagation();
   event.preventDefault();
